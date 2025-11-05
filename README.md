@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ELdon
+- 👋 MAKE Quahog GREAT AGAIN
 
 <!---
 Misery-1015/Misery-1015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
